@@ -14,4 +14,5 @@ int main()
 	std::cin >> number;
 	
 
+
 }
